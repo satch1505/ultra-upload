@@ -1,0 +1,9 @@
+# ULTRA TRANSFER: COLA DE TRANSFERENCIAS
+# ==============================================================================
+# Escribe o pega abajo los nombres de los archivos o carpetas del Seedbox a transferir.
+# - Un archivo o carpeta por línea.
+# - Las líneas que empiezan por '#' o vacías son ignoradas.
+# ==============================================================================
+
+# Ejemplo_Pelicula_1080p.mkv
+# Carpeta_Serie_Temporada_1

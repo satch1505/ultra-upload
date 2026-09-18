@@ -1,0 +1,14 @@
+{
+  "remote_host": "169.150.xxx.xxx",
+  "remote_user": "tu_usuario_seedbox",
+  "remote_pass": "tu_password_seedbox",
+  "remote_dir": "/home/usuario/downloads/rtorrent",
+  "local_dir": "/root/ultra",
+  "links_dir": "/root/ultra",
+  "transferit_bin": "/root/.local/bin/transferit",
+  "pget_connections": 5,
+  "transferit_concurrency": 4,
+  "auto_delete_local": false,
+  "discord_webhook": "https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN",
+  "discord_include_link": true
+}

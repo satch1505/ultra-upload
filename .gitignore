@@ -1,0 +1,49 @@
+# Credenciales y archivos locales de configuración
+config.json
+config.txt
+
+# Contenido multimedia descargado y archivos pesados
+*.mkv
+*.mp4
+*.avi
+*.m4v
+*.mov
+*.wmv
+*.flv
+*.webm
+*.cbz
+*.cbr
+*.epub
+*.pdf
+*.zip
+*.rar
+*.tar*
+*.7z
+*.srt
+*.sup
+*.nfo
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Carpetas de contenido descargado
+Alice_Rohrwacher/
+Happy.as.Lazzaro*/
+Vagabond*/
+Shivers*
+
+# Cola local de descargas
+queue.txt
+
+# Logs e historiales generados
+*.log
+*.link.txt
+links.txt
+transfer_history.json
+history/
+
+# Python cache y bytecode
+__pycache__/
+*.py[cod]
+*$py.class
